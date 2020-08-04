@@ -4,8 +4,6 @@ cucamelon.shop is a mexican company that locally sells eco-alternative products 
 They link commerce in rural areas to deliver the best selection of products to your doorstep.
 
 ## Preview
-
-<<<<<<< HEAD
 [![Shop Homepage Preview](https://github.com/MauMccoy/cucamelon/blob/master/cucamelonSlide1.png)](https://cucamelon.shop)
 
 
@@ -23,4 +21,3 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/MauMccoy/cucamelonshop/issues) here on GitHub.
->>>>>>> ce5f4cee364db4374fcd44cf81f210382e1f22e0
